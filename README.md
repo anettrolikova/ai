@@ -6,3 +6,6 @@ Disclaimer: This repo is Work In Progress and I'm adding new links on a very irr
 
 # Claude
 - [The Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
+
+# Vibecoding
+- [The Complete Guide to Vibe Coding for Founders](https://justmovetosf.com/guide/vibe-coding) full list of amazing vibecoding tools! 
