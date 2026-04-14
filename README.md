@@ -9,3 +9,10 @@ Disclaimer: This repo is Work In Progress and I'm adding new links on a very irr
 
 # Vibecoding
 - [The Complete Guide to Vibe Coding for Founders](https://justmovetosf.com/guide/vibe-coding) full list of amazing vibecoding tools! 
+
+# AI design tools
+- [Variant](https://variant.com/) endless design ideas
+
+# Cool projects 
+- [Riff: A Claude Plugin for Writing Personal Essays](https://github.com/benjaroy/riff)
+- [Czech AI mapping 2025 outputs](https://www.cnaip.cz/en/blog/czech-ai-mapping-2025) all things AI happening in Czech
