@@ -16,3 +16,4 @@ Disclaimer: This repo is Work In Progress and I'm adding new links on a very irr
 # Cool projects 
 - [Riff: A Claude Plugin for Writing Personal Essays](https://github.com/benjaroy/riff)
 - [Czech AI mapping 2025 outputs](https://www.cnaip.cz/en/blog/czech-ai-mapping-2025) all things AI happening in Czech
+- [Couch to 5k AI](https://couchto5k.ai/) 30 days of ten-minute exercises to get you from chatting to building with AI
